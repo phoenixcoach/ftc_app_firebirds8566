@@ -38,6 +38,8 @@ import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
  * This is an example LinearOpMode that shows how to use
  * the Modern Robotics Gyro.
  *
+ * Test to check commit from Android Studio.
+ *
  * The op mode assumes that the gyro sensor
  * is attached to a Device Interface Module I2C channel
  * and is configured with a name of "gyro".
