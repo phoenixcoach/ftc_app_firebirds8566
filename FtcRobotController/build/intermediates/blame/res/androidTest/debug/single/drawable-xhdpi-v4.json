@@ -8,7 +8,19 @@
         "source": "C:\\Users\\Eric\\Documents\\GitHub\\ftc_app_firebirds8566\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\icon_menu.png"
     },
     {
+        "merged": "C:\\Users\\lulyork\\AndroidStudioProjects\\ftc_app_firebirds8566\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\lulyork\\AndroidStudioProjects\\ftc_app_firebirds8566\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\Eric\\Documents\\GitHub\\ftc_app_firebirds8566\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\icon_robotcontroller.png",
         "source": "C:\\Users\\Eric\\Documents\\GitHub\\ftc_app_firebirds8566\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\icon_robotcontroller.png"
+    },
+    {
+        "merged": "C:\\Users\\lulyork\\AndroidStudioProjects\\ftc_app_firebirds8566\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\icon_robotcontroller.png",
+        "source": "C:\\Users\\lulyork\\AndroidStudioProjects\\ftc_app_firebirds8566\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\icon_robotcontroller.png"
+    },
+    {
+        "merged": "C:\\Users\\lulyork\\AndroidStudioProjects\\ftc_app_firebirds8566\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\icon_menu.png",
+        "source": "C:\\Users\\lulyork\\AndroidStudioProjects\\ftc_app_firebirds8566\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\icon_menu.png"
     }
 ]

@@ -54,10 +54,10 @@ public class HolonomicDriveTest extends OpMode {
 		 */
 
 
-        motorFrontRight = hardwareMap.dcMotor.get("motor front right");
-        motorFrontLeft = hardwareMap.dcMotor.get("motor front left");
-        motorBackLeft = hardwareMap.dcMotor.get("motor back left");
-        motorBackRight = hardwareMap.dcMotor.get("motor back right");
+        motorFrontRight = hardwareMap.dcMotor.get("motorFrontRight");
+        motorFrontLeft = hardwareMap.dcMotor.get("motorFrontLeft");
+        motorBackLeft = hardwareMap.dcMotor.get("motorBackLeft");
+        motorBackRight = hardwareMap.dcMotor.get("motorBackRight");
         //These work without reversing (Tetrix motors).
         //AndyMark motors may be opposite, in which case uncomment these lines:
         //motorFrontLeft.setDirection(DcMotor.Direction.REVERSE);
@@ -67,8 +67,8 @@ public class HolonomicDriveTest extends OpMode {
 
     }
 
-    @Override
-    public void loop() {
+        @Override
+        public void loop() {
 
 
         // left stick controls direction

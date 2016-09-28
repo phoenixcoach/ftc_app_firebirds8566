@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\lulyork\\AndroidStudioProjects\\ftc_app_firebirds8566\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\lulyork\\AndroidStudioProjects\\ftc_app_firebirds8566\\FtcRobotController\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\Eric\\Documents\\GitHub\\ftc_app_firebirds8566\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\Eric\\Documents\\GitHub\\ftc_app_firebirds8566\\FtcRobotController\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
     }
