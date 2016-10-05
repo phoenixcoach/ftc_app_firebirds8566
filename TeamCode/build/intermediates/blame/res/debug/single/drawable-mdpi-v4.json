@@ -1,10 +1,6 @@
 [
     {
-        "merged": "C:\\Users\\Eric\\Documents\\GitHub\\ftc_app_firebirds8566\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
-        "source": "C:\\Users\\Eric\\Documents\\GitHub\\ftc_app_firebirds8566\\TeamCode\\build\\intermediates\\exploded-aar\\ftc_app_firebirds8566\\FtcRobotController\\unspecified\\res\\drawable-mdpi-v4\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\lulyork\\AndroidStudioProjects\\ftc_app_firebirds8566\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
-        "source": "C:\\Users\\lulyork\\AndroidStudioProjects\\ftc_app_firebirds8566\\TeamCode\\build\\intermediates\\exploded-aar\\ftc_app_firebirds8566\\FtcRobotController\\unspecified\\res\\drawable-mdpi-v4\\ic_launcher.png"
+        "merged": "C:\\Users\\Eric\\AndroidStudioProjects\\ftc_app_firebirds8566\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Eric\\AndroidStudioProjects\\ftc_app_firebirds8566\\TeamCode\\build\\intermediates\\exploded-aar\\ftc_app_firebirds8566\\FtcRobotController\\unspecified\\res\\drawable-mdpi-v4\\ic_launcher.png"
     }
 ]
